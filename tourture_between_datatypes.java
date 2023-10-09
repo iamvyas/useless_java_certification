@@ -13,7 +13,7 @@ public class Main
 		long l= 5^2;
 		System.out.println(" long of l = 5^2 is "+ l); // displayed as 7
 		if(i<d && d>c || i>l && i>c || c>l){
-		    System.out.println("c/l "+ c/l); //this is displayed as output 4...but how and why 
+		    System.out.println("c/l "+ c/l); //this is displayed as output 4 because it comes down to 32/7 , question is how l is 7
 		}
 		else{
 		    System.out.println("l/c"+ l/c);
